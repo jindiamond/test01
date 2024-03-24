@@ -34,4 +34,4 @@ Hello world
 
 [Google](https://www.google.com)
 
-[Blog/Post2](/blog/post-2)
+[Blog/Post3](blog/post-3)
