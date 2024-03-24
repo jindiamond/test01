@@ -1,3 +1,25 @@
+---
+title: "我的第一篇文章"
+date: 2024-03-24T13:07:47+08:00
+draft: false
+
+# post thumb
+image: "images/post/post-3.jpg"
+
+# meta description
+description: "this is meta description"
+
+# taxonomies
+categories: 
+  - "心得"
+tags:
+  - "TTT1"
+
+# post type
+type: "post"
+---
+
+
 Hello world
 
 我是阿犀
@@ -30,8 +52,15 @@ Hello world
 * C++
 * Matlab
 
-> python language
+[Blog/Post1](../post-1)
 
-[Google](https://www.google.com)
+# Youtube Shortcode
 
-[Blog/Post3](../post-2)
+{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
+
+{{< youtube w7Ft2ymGmfc >}}
+
+# Vimeo
+{{< vimeo 55073825 >}}
+
+{{< figure src="post-1.jpg" title="An elephant at sunset" >}}
