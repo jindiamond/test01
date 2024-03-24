@@ -34,4 +34,4 @@ Hello world
 
 [Google](https://www.google.com)
 
-[Blog/Test.md](/liva/examplesite/blog/post-1)
+[Blog/Test.md](/blog/post-1)
